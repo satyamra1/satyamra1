@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamra1&label=Profile%20views&color=0e75b6&style=flat" alt="satyamra1" /> </p>
 
-- 🔭 I’m currently working on **Quizzer**
+- 🔭 I’m currently working on **Ai mock interview portal**
 -  **Quizzer**: https://quizzer-mock.onrender.com/
 
 - 🌱 I’m currently learning **Machine Learning & Node js**
