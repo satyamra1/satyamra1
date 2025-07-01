@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Ai mock interview portal**
 -  **Quizzer**: https://quizzer-mock.onrender.com/
 
-- 🌱 I’m currently learning **Machine Learning & Node js**
+- 🌱 I’m currently learning **GEN-AI**
 
 - 👯 I’m looking to collaborate on **my project**
 
