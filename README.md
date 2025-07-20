@@ -86,7 +86,7 @@
 
 ---
 
-### 🧠 Keywords for SEO
+
 `Full Stack Developer India`, `React JS Developer`, `MERN Stack`, `B.Tech CSE GLA`, `Node.js Projects`, `Java DSA`, `Open Source Contributor`, `AI Projects`, `Tailwind CSS`, `Frontend Developer`
 
 ---
